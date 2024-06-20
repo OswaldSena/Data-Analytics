@@ -9,7 +9,7 @@ This repository contains a collection of data analysis projects implemented usin
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Projects
 
@@ -87,10 +87,4 @@ The dependencies required for these projects are listed in the `requirements.txt
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or create a pull request. Please ensure your code follows the project's coding standards and includes appropriate tests.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README further as per your specific requirements and project details.
