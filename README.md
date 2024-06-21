@@ -1,5 +1,3 @@
-Here's the updated README including the two additional projects:
-
 ---
 
 # Data Analysis Projects
